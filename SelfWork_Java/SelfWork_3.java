@@ -1,3 +1,4 @@
+package SelfWork_Java;
 public class SelfWork_3 {
     public static void main (String[] args) {
       

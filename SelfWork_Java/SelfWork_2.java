@@ -1,3 +1,4 @@
+package SelfWork_Java;
 public class SelfWork_2 {
     public static void main(String[] args) {
         int[] numeri = { 1, 2, 3, 4, 5 };
