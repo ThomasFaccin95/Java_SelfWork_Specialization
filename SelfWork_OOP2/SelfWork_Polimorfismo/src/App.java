@@ -3,7 +3,7 @@ public class App {
 
         System.out.println("----------------------------------------");
 
-        Employee antonio = new Employee("Antonio", "Rossi", 30, 3000);
+        Employee antonio = new Employee("Fabio", "Rossi", 30, 3000);
 
         Student maria = new Student("Maria", "Bianchi", 20, 28);
 
@@ -26,6 +26,7 @@ public class App {
         luca.workOnProject();
         
         luca.getSalaryCommission();
+
     }
 
 }
